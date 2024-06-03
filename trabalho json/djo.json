@@ -1,0 +1,9 @@
+{
+    "Serie": [
+    {"id":1 ,"nomeSerie": "S.W.O.T",
+    "numTemporadas": 5,
+    "anoLancamento": 2024,
+    "estudio": "Disney"}
+    ]
+      
+}
